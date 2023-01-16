@@ -1,0 +1,17 @@
+tf init
+    to initiliaze all packages needed
+
+tf plan
+    will plan it in bckground for itself
+
+tf fmt
+    this will format the code acc. to its best standard
+
+tf validate
+    it check whethe syntaxes and resources correct to create 
+
+tf apply
+    it will create the resourse which declared 
+
+tf destroy
+    it will delete the resourse which declared
