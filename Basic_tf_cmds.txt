@@ -15,3 +15,6 @@ tf apply
 
 tf destroy
     it will delete the resourse which declared
+
+tf apply/destroy -auto-approve
+    it will automatically start its work without prompting for "yes"
